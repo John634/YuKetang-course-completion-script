@@ -1,3 +1,4 @@
+#主脚本
 # -*- coding: utf-8 -*-
 """
 雨课堂(主站 www.yuketang.cn)自动刷课脚本
